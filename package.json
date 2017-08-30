@@ -1,0 +1,34 @@
+{
+  "name": "tag-manager",
+  "version": "0.2.0",
+  "description": "Tag Manager integration for OXID eShop: Google, Matomo and Yandex",
+  "author": "Marat Bedoev",
+  "email": "oxid@bestlife.ag",
+  "vendor": "bla",
+  "company": "bestlife AG",
+  "url": "https://github.com/vanilla-thunder/oxid-module-tag-manager",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vanilla-thunder/oxid-module-tag-manager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vanilla-thunder/oxid-module-tag-manager/issues"
+  },
+  "keywords": [
+    "google tag manager",
+    "matomo tag manager",
+    "yandex metrika",
+    "yandex metrica",
+    "oxid"
+  ],
+  "dependencies": {
+    "fs-extra": "*",
+    "replace": "*"
+  },
+  "scripts": {
+    "init": "node scripts.js init",
+    "build": "node scripts.js build",
+    "publish": "node scripts.js publish"
+  }
+}
