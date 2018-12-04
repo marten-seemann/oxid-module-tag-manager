@@ -85,6 +85,11 @@ $aModule = [
 			'block'    => 'widget_product_listitem_line_tobasket',
 			'file'     => '/application/views/blocks/ee/impression.tpl'
 		],
+		[
+			'template' => 'widget/product/boxproduct.tpl',
+			'block'    => 'widget_product_boxproduct_price',
+			'file'     => '/application/views/blocks/ee/impression.tpl'
+		],
 		// checkout
 		[
 			'template' => 'page/checkout/basket.tpl',

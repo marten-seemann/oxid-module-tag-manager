@@ -10,7 +10,7 @@
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/vanilla-thunder/oxid-module-tag-manager.git"
+    "url": "https://github.com/vanilla-thunder/oxid-module-tag-manager.git"
   },
   "bugs": {
     "url": "https://github.com/vanilla-thunder/oxid-module-tag-manager/issues"
